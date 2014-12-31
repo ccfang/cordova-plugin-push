@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.ezoapp.cordova.push" version="0.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.ezoapp.cordova.push" version="0.1.0">
   <name>Push</name>
   <description>EZoApp cordova push plugin</description>
   <license>MIT</license>
